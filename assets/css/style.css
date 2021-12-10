@@ -1,0 +1,93 @@
+*{
+    text-align: center;
+    color: #000f08;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-color: #000f08;
+}
+
+main{
+    background-color: #000f08;
+}
+
+.letraicon{
+    color: #ffffff!important;
+}
+
+.navbarcolor{
+    background-color: transparent!important;
+}
+
+.letranav{
+    color: #ffffff;
+}
+
+.colorlinea{
+    color: #1798c1!important;
+}
+
+.letra{
+    color: #ffffff;
+    margin-inline-start: auto;
+}
+
+.fondobarra{
+    color: #1798c1!important;
+}
+
+.coloricon{
+    color: #ffffff!important;
+}
+
+.iconpar{
+    color: #ffffff!important;
+}
+
+.iconplane{
+    background-color: #ffffff;
+}
+
+.colorbarra{
+    background-color: #1798c1;
+}
+
+.fondocard{
+    background-color: #1798c1;
+}
+
+.parrafocard{
+    color: #ffffff;
+    text-align: left;
+}
+
+.letrapar{
+    color: #ffffff;
+    text-align: left;
+}
+
+hr{ 
+    color: #1798c1!important;
+    background-color: #1798c1!important;
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+
+  footer{
+      background-color: #1798c1!important;
+  }
+
+  .letrafooter{
+      color: #ffffff;
+  }
+
+  .iconfooter{
+      color: #ffffff!important;
+  }
+
+
+
